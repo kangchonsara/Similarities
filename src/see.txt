@@ -1,0 +1,1060 @@
+1968 dup
+1968 dup
+1968 dup
+1968 dup
+1968 amb ? 144
+1972 amb * 131
+1972 amb - 122
+1972 amb - 122
+1975 dup
+1980 amb ? 192
+1981 amb ? 131
+1982 amb ? 137
+1982 amb ? 144
+1985 amb - 124
+1986 amb ? 137
+1987 amb - 124
+1987 dup
+1988 amb ? 157
+1989 amb ? 155
+1989 dup
+1989 dup
+1990 amb - 122
+1990 amb - 122
+1990 amb - 122
+1990 amb - 122
+1990 amb - 122
+1991 dup
+1991 dup
+1991 amb ? 155
+1991 dup
+1991 dup
+1991 dup
+1991 dup
+1991 dup
+1991 dup
+1991 dup
+1991 dup
+1991 dup
+1991 dup
+1991 dup
+1991 dup
+1991 dup
+1991 dup
+1991 dup
+1991 dup
+1991 dup
+1991 dup
+1991 amb ? 155
+1991 amb ? 155
+1991 dup
+1991 dup
+1991 dup
+1991 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 amb ? 155
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1992 dup
+1993 dup
+1993 dup
+1993 amb ? 137
+1993 amb ? 137
+1993 amb ? 137
+1993 amb ? 189
+1993 dup
+1993 dup
+1993 dup
+1993 dup
+1993 dup
+1993 dup
+1993 dup
+1993 dup
+1993 amb ? 137
+1993 dup
+1993 dup
+1993 dup
+1993 dup
+1993 dup
+1993 dup
+1993 dup
+1993 dup
+1993 dup
+1993 dup
+1993 amb ? 144
+1993 amb ? 137
+1993 amb ? 137
+1993 amb ? 137
+1993 dup
+1993 dup
+1993 dup
+1993 dup
+1993 dup
+1993 dup
+1993 dup
+1993 dup
+1993 amb ? 137
+1994 dup
+1994 amb - 122
+1994 amb - 122
+1994 amb - 122
+1994 dup
+1994 dup
+1994 dup
+1994 amb ? 144
+1994 dup
+1994 dup
+1994 dup
+1995 dup
+1995 dup
+1995 dup
+1995 dup
+1995 dup
+1995 dup
+1995 dup
+1995 dup
+1995 dup
+1995 dup
+1995 dup
+1995 dup
+1995 dup
+1995 dup
+1995 amb ? 189
+1995 dup
+1995 dup
+1995 dup
+1996 amb - 155
+1996 dup
+1996 amb ? 188
+1996 amb ? 137
+1997 amb ? 192
+1997 dup
+1997 amb - 186
+1998 dup
+1998 dup
+1998 amb - 122
+1998 amb - 122
+1998 amb - 122
+1998 dup
+1998 dup
+1998 amb - 156
+1998 dup
+1999 amb ? 193
+1999 amb ? 159
+1999 amb ? 159
+1999 dup
+1999 dup
+1999 dup
+1999 dup
+1999 dup
+1999 dup
+1999 dup
+1999 amb ? 189
+1999 dup
+1999 dup
+1999 dup
+1999 dup
+1999 amb ? 157
+2000 amb - 155
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 amb - 122
+2002 amb - 122
+2002 amb - 122
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2002 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 amb ? 142
+2003 dup
+2003 amb ? 137
+2003 dup
+2003 dup
+2003 amb * 131
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 amb ? 159
+2003 dup
+2003 dup
+2003 dup
+2003 amb - 122
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 amb ? 142
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2003 amb - 122
+2003 dup
+2003 dup
+2003 dup
+2003 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 amb - 122
+2004 amb - 122
+2004 amb - 122
+2004 amb - 122
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 amb ? 159
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 amb ? 189
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 amb - 122
+2004 amb ? 131
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 amb ? 137
+2005 amb ? 155
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 amb ? 137
+2005 dup
+2005 dup
+2005 dup
+2005 amb ? 186
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 amb - 122
+2005 amb - 122
+2005 amb - 122
+2005 amb - 122
+2005 dup
+2005 amb ? 144
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 amb ? 188
+2005 amb ? 188
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 amb ? 193
+2006 dup
+2006 dup
+2006 dup
+2006 amb - 122
+2006 amb - 122
+2006 amb - 122
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 amb ? 193
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 amb ? 137
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 amb ? 155
+2006 amb - 155
+2006 amb - 155
+2006 amb - 122
+2006 amb - 122
+2006 amb - 122
+2006 amb - 122
+2006 amb - 122
+2006 amb - 122
+2006 amb - 122
+2006 amb - 122
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 amb - 122
+2006 amb - 122
+2006 amb - 122
+2006 amb - 122
+2006 amb - 122
+2006 amb - 122
+2006 amb - 122
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2007 amb ? 144
+2007 amb ? 189
+2007 dup
+2007 amb ? 196
+2007 amb ? 143
+2007 amb ? 193
+2007 amb ? 137
+2007 amb ? 137
+2007 amb ? 137
+2007 amb ? 144
+2007 amb ? 193
+2007 amb ? 157
+2007 amb ? 193
+2007 amb - 186
+2007 amb ? 137
+2007 amb ? 137
+2007 amb ? 164
+2007 dup
+2007 amb ? 193
+2007 amb ? 193
+2007 amb - 186
+2007 amb - 186
+2007 amb ? 137
+2007 amb ? 137
+2007 amb ? 137
+2007 amb ? 137
+2007 amb ? 137
+2007 amb - 122
+2007 amb - 122
+2007 dup
+2007 amb ? 193
+2007 amb ? 193
+2008 amb ? 144
+2008 amb ? 137
+2008 amb ? 137
+2008 amb ? 155
+2008 dup
+2008 amb ? 144
+2008 dup
+2008 amb ? 164
+2008 amb ? 144
+2008 dup
+2008 dup
+2008 dup
+2008 dup
+2008 dup
+2008 dup
+2008 dup
+2008 dup
+2008 dup
+2008 dup
+2008 dup
+2008 amb ? 137
+2008 amb ? 137
+2008 amb - 186
+2008 amb ? 137
+2008 amb ? 144
+2008 dup
+2008 dup
+2008 dup
+2008 amb - 122
+2008 amb - 122
+2008 amb - 122
+2008 amb - 122
+2008 amb - 122
+2008 amb - 122
+2008 dup
+2008 amb - 122
+2008 amb - 122
+2008 amb ? 160
+2008 amb ? 137
+2008 amb ? 137
+2008 dup
+2009 amb ? 157
+2009 amb - 160
+2009 amb - 160
+2009 amb - 122
+2009 amb ? 193
+2009 amb ? 189
+2009 amb ? 126
+2009 amb ? 160
+2009 dup
+2009 dup
+2009 amb ? 158
+2009 amb ? 163
+2009 amb ? 193
+2009 amb ? 137
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 amb ? 137
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 amb ? 137
+2009 amb ? 158
+2009 amb ? 137
+2009 amb ? 137
+2009 dup
+2009 amb ? 193
+2009 amb ? 145
+2009 amb ? 193
+2009 amb ? 188
+2009 dup
+2009 amb ? 164
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 amb ? 163
+2009 amb ? 163
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 dup
+2009 amb ? 144
+2009 amb ? 193
+2009 amb - 186
+2009 amb - 186
+2009 amb ? 193
+2009 dup
+2009 amb ? 137
+2010 amb ? 192
+2010 amb ? 156
+2010 amb ? 164
+2010 amb ? 193
+2010 dup
+2010 amb ? 137
+2010 amb ? 137
+2010 amb - 186
+2010 amb ? 196
+2010 amb ? 164
+2010 amb ? 164
+2010 amb - 186
+2010 amb ? 193
+2010 dup
+2010 dup
+2010 dup
+2010 dup
+2010 dup
+2010 dup
+2010 dup
+2010 dup
+2010 dup
+2010 dup
+2010 dup
+2010 dup
+2010 dup
+2010 amb - 122
+2010 amb - 186
+2010 amb - 186
+2010 amb - 186
+2010 amb - 186
+2010 amb - 186
+2010 amb - 186
+2010 amb - 186
+2010 amb - 186
+2010 amb - 186
+2010 amb - 186
+2010 amb ? 137
+2010 amb ? 137
+2010 amb ? 193
+2010 amb ? 192
+1988 amb ? 157
+1991 dup
+1991 dup
+1991 dup
+1992 dup
+1992 dup
+1992 dup
+1993 amb ? 144
+1993 amb ? 137
+1996 amb ? 137
+1998 dup
+2003 dup
+2003 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2004 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2005 dup
+2006 amb ? 193
+2006 amb ? 193
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 dup
+2006 amb ? 137
+2007 amb ? 144
+2007 amb ? 137
+2007 amb ? 137
+2007 amb ? 137
+2007 amb ? 144
+2007 amb ? 137
+2007 amb ? 137
+2007 amb ? 164
+2007 dup
+2007 amb ? 137
+2007 amb ? 137
+2007 amb ? 137
+2007 amb ? 193
+2007 amb ? 193
+2008 amb ? 144
+2008 amb ? 137
+2008 amb ? 144
+2008 amb ? 144
+2008 dup
+2008 dup
+2008 amb ? 137
+2008 amb ? 137
+2008 amb ? 137
+2008 amb ? 144
+2008 dup
+2008 dup
+2008 amb ? 160
+2008 amb ? 137
+2008 amb ? 137
+2008 dup
+2009 amb ? 189
+2009 dup
+2009 dup
+2009 amb ? 193
+2009 amb ? 137
+2009 amb ? 137
+2009 amb ? 137
+2009 dup
+2009 amb ? 145
+2009 amb ? 193
+2009 amb ? 193
+2009 dup
+2009 amb ? 137
+2010 dup
+2010 amb ? 137
+2010 amb ? 137
+2010 amb ? 164
+2010 amb ? 137
+2010 amb ? 137
+1968 47
+1969 12
+1970 10
+1971 16
+1972 31
+1973 17
+1974 19
+1975 20
+1976 27
+1977 21
+1978 9
+1979 13
+1980 21
+1981 21
+1982 33
+1983 35
+1984 33
+1985 49
+1986 15
+1987 33
+1988 31
+1989 104
+1990 58
+1991 71
+1992 97
+1993 203
+1994 143
+1995 187
+1996 259
+1997 204
+1998 290
+1999 377
+2000 419
+2001 318
+2002 796
+2003 1317
+2004 1215
+2005 1298
+2006 1052
+2007 1589
+2008 1659
+2009 1478
+2010 1186
+1968 47
+1969 12
+1970 10
+1971 16
+1972 31
+1973 17
+1974 19
+1975 20
+1976 27
+1977 21
+1978 9
+1979 13
+1980 21
+1981 21
+1982 33
+1983 35
+1984 33
+1985 49
+1986 15
+1987 33
+1988 31
+1989 104
+1990 58
+1991 71
+1992 97
+1993 203
+1994 143
+1995 187
+1996 259
+1997 204
+1998 290
+1999 377
+2000 419
+2001 318
+2002 796
+2003 1317
+2004 1215
+2005 1298
+2006 1052
+2007 1589
+2008 1659
+2009 1478
+2010 1186

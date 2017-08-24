@@ -3,21 +3,21 @@ import os
 
 beginY = 1968
 endY = 2010
-
+sites = ['a', 'b', 'c', 'd']
 
 def read_epitope_AB(epifName):
-	epiA = []
-	epiB = []
+
+	epitopes = [[] for i in range(len(sites)) ]
+	
 	epif = open(epifName, "r")
 	for line in epif:
 		each = line.split("\n")[0].split("\t")
-		if each[1] == 'a':
-			epiA.append(int(each[0]))
-		elif each[1] == 'b':
-			epiB.append(int(each[0]))
+		idx = sites.index(each[1])
+		epitopes[idx].append(int(each[0]))
+			
 	epif.close()
 	
-	return epiA, epiB
+	return epitopes
 	
 def read_vaccineSeq(vacfName):
 	vacSeqs = []
@@ -30,15 +30,37 @@ def read_vaccineSeq(vacfName):
 			vacSeqs.append(seq)
 			
 	vacf.close()
-	
 	return vacSeqs
+	
+def vacSeq_dif(vacSeqs, epitope):
+	vs_dif_all = 0
+	num_comp = 0
+	for v1 in range(len(vacSeqs)-1):
+		for v2 in range(v1+1, len(vacSeqs)):
+			vac1 = vacSeqs[v1].split(" ")[1]
+			vac2 = vacSeqs[v2].split(" ")[1]
+			
+			num_comp += 1
+			vs_dif = 0
+			for s in epitope:
+				if vac1[s-1] != vac2[s-1]:
+					print (s, v1, v2, vac1[s-1], vac2[s-2])
+					vs_dif += 1
+
+			vs_dif_all += vs_dif
+	vs_dif_avg = 1.0*vs_dif_all/(len(epitope)*num_comp)
+	
+	return vs_dif_avg
+	
 			
 	
 #When there are 2 or more identical samples (same virus name and same sequence), leave only 1.
 #Remove samples with deletion or ambiguity at epitope site.
-def remove_dupl_ambig(sequences, epiA, epiB):
+def remove_dupl_ambig(sequences, epitope_mixed):
 	years = []
+
 	for year in sequences:
+
 		oneYear = []
 		for seq in year:
 			if seq in oneYear:
@@ -48,8 +70,8 @@ def remove_dupl_ambig(sequences, epiA, epiB):
 				
 				remove = 0
 				for s in range(len(sequence)):
-					if s+1 in epiA or s+1 in epiB:
-						if sequence[s] == "-" or sequence[s] == "?" or sequence[s] == "*":
+					if s+1 in epitope_mixed:
+						if sequence[s+1] == "-" or sequence[s+1] == "?" or sequence[s+1] == "*":
 							remove = 1
 							break
 							
@@ -80,43 +102,61 @@ def seqs_byYear(infName):
 	
 	return byYear_r, USbyYear_r
 
-def calc_epi_similarity(byYear, vacSeqs, epiB):
-	B_similarities = []
+def calc_epi_similarity(byYear, vacSeqs, epitope):
+	epi_similarities = []
 	
 	for yearSeq in byYear:
 		mean_simil = 0
 		
 		for seq in yearSeq:
+			seq = seq.split(" ")[1]
 			similarity = 0
-			for s in epiB:
-				if seq[s-1] == vacSeqs[0][s-1]:
-					similarity += 1
+			for vacSeq in vacSeqs:
+				vacSeq = vacSeq.split(" ")[1]
+				for s in epitope:
+					if seq[s-1] == vacSeq[s-1]:
+						similarity += 1
 			
-			similarity = 1.0*similarity/len(epiB) #per site
+			similarity = 1.0*similarity/(len(epitope)*len(vacSeqs)) #per site
 			mean_simil += similarity
 			
 		mean_simil = mean_simil/len(yearSeq) #per seq
-		B_similarities.append(mean_simil)
+		epi_similarities.append(mean_simil)
 	
-	return B_similarities
+	return epi_similarities
 
 infName = os.path.normpath("../data/H3_6810AA.fasta")
 shifName = os.path.normpath("../data/shih_epitope.txt")
 vacfName = os.path.normpath("../data/HongKong4801_AA.fas")
+similfName = os.path.normpath("../result/similarities_")
 
 byYear_r, USbyYear_r = seqs_byYear(infName)
 
-epiA, epiB = read_epitope_AB(shifName)
-print (epiB)
-
-byYear = remove_dupl_ambig(byYear_r, epiA, epiB)
-USbyYear = remove_dupl_ambig(USbyYear_r, epiA, epiB)
+epitopes = read_epitope_AB(shifName)
+epitope_mixed = []
+for epitope in epitopes[:2]:
+	epitope_mixed += epitope
+	
+byYear = remove_dupl_ambig(byYear_r, epitope_mixed)
+USbyYear = remove_dupl_ambig(USbyYear_r, epitope_mixed)
 
 vacSeqs = read_vaccineSeq(vacfName)
+#for epitope in epitopes:
+#	vac_dif = vacSeq_dif(vacSeqs, epitope)
+#	print (vac_dif)
+vacSeqs = vacSeqs[0:1]
+	
+for e in range(len(epitopes[:2])):
+	epif = open(similfName+sites[e]+".csv", "w")
+	epif.write("year,similarity\n")
+	similarities = calc_epi_similarity(byYear, vacSeqs, epitopes[e])
+	for y in range(len(similarities)):
+		epif.write(str(y+beginY)+","+str(similarities[y])+"\n")
+	epif.close()
 
-B_similarities = calc_epi_similarity(byYear, vacSeqs, epiB)
-for y in range(len(B_similarities)):
-	print (y+beginY, B_similarities[y])
+	
+	
+	
 	
 	
 	
